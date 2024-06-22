@@ -3,3 +3,4 @@
 <p>Next JS</p>
 <p>React JS</p>
 <p>NODE JS</p>
+<p>Responsive Mevcut Değil</p>
