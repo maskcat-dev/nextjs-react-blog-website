@@ -1,6 +1,6 @@
 # Blog Sitesi
 
-<img src="https://hizliresim.com/jo5ebx1">
+<img src="https://i.hizliresim.com/jo5ebx1.png">
 
 <h1>React İle Yapılmış Bir Blog Sitesi</h1>
 <h2>Özellikler:</h2>
